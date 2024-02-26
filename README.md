@@ -42,6 +42,20 @@
       1. **Voltage-Clamp Experiment Setup:** Employing sophisticated equipment to meticulously measure and interpret changes in current, elucidating the intricate responses of sensory neurons to chemical stimuli.
       2. **Patch Clamp Experiment Analysis:** Rigorous scrutiny and interpretation of patch clamp results were conducted to compare how two distinct sodium channel blockers modulate capsaicin-induced excitability.
       3. **Withdrawal Reflex Time Measurement:** Systematic data collection and analysis were performed to determine withdrawal reflex time in an acute pain model.
+    
+- Get ready for the lab ,
+- Receive your mission
+- Match Stimuli and sensory neurons
+- Explore how capsaician stimules pain
+- Dissect rat to obtain dorsal root ganglia
+- Prepare for a voltage-clamp experiment
+- Conduct voltage-clamp experiments
+- Obeserve the mchanism of action of both drugs
+- Analyze experimental data testing from motor function
+
+
+
+
 
 **4. Obtained Results:**
    - *Results:* The experiments yielded quantifiable outcomes, revealing observable changes in current in direct response to chemical stimuli. Notably, the data from both voltage-clamp and patch clamp experiments provided valuable insights into the dynamic behavior of sensory neurons. Additionally, the meticulous tracking of withdrawal reflex time in the acute pain model enriched the dataset.
