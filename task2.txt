@@ -4,7 +4,8 @@ Lab Report Reflection: Hematology Simulation
 Describe the overall objective and make a hypothesis:
 
 Overall Objective: The primary goal of the simulation was to diagnose various blood disorders in three patients through the analysis of complete blood counts and peripheral blood smears.
-Hypothesis: Based on the information provided, I hypothesized that by utilizing an automatic hematology analyzer and preparing peripheral blood smears, I would be able to identify abnormalities in blood components and subsequently diagnose specific blood disorders in the simulated patients.
+Hypothesis: Based on the information provided, I hypothesized that by utilizing an automatic hematology analyzer and preparing peripheral blood smears, I would be able to
+identify abnormalities in blood components and subsequently diagnose specific blood disorders in the simulated patients.
 Introduce relevant background knowledge on this topic:
 
 In human blood, there are different cell types: red blood cells, white blood cells, and platelets, making up 45% of the total volume.
@@ -27,7 +28,9 @@ Discuss the conclusions and implications:
 a. The simulation results aligned with the original purpose, allowing the identification of potential blood disorders in simulated patients.
 b. Systematic sources of error, such as inaccuracies in staining or misinterpretation of cell morphologies, could have influenced results.
 c. The simulation provided valuable insights into the diagnostic process for blood disorders, emphasizing the importance of combining automated analysis with microscopic examination.
-In conclusion, the Hematology Simulation offered a comprehensive experience in diagnosing blood disorders, integrating theoretical knowledge with practical skills. The process involved preparing samples, utilizing advanced analytical tools, and interpreting results to contribute towards accurate diagnoses. This simulation enhanced my understanding of hematology and the crucial role it plays in clinical diagnostics.
+In conclusion, the Hematology Simulation offered a comprehensive experience in diagnosing blood disorders, integrating theoretical knowledge with practical 
+skills. The process involved preparing samples, utilizing advanced analytical tools, and interpreting results to contribute towards accurate diagnoses. This
+simulation enhanced my understanding of hematology and the crucial role it plays in clinical diagnostics.
 
 
 
@@ -36,8 +39,11 @@ Lab Report Reflection: Hematology Simulation
 
 Describe the overall objective and make a hypothesis:
 
-Overall Objective: The simulation aimed to simulate the diagnostic process for various blood disorders through the generation of complete blood counts (CBC) and the preparation of peripheral blood smears. The overarching goal was to apply theoretical knowledge in a practical setting to identify abnormalities in blood components.
-Hypothesis: Considering the integration of an automatic hematology analyzer and the preparation of peripheral blood smears, I hypothesized that a comprehensive analysis of blood parameters would enable the accurate diagnosis of specific blood disorders in the simulated patients.
+Overall Objective: The simulation aimed to simulate the diagnostic process for various blood disorders through the generation of complete blood counts (CBC) and the preparation of peripheral blood smears.
+The overarching goal was to apply theoretical knowledge in a practical setting to identify abnormalities in blood components.
+
+Hypothesis: Considering the integration of an automatic hematology analyzer and the preparation of peripheral blood smears, I hypothesized that a 
+comprehensive analysis of blood parameters would enable the accurate diagnosis of specific blood disorders in the simulated patients.
 Introduce relevant background knowledge on this topic:
 
 In-depth knowledge about the composition of human blood, understanding the roles of red blood cells, white blood cells, platelets, and the contribution of blood plasma.
@@ -59,5 +65,9 @@ Discuss the conclusions and implications:
 
 a. The simulation's results effectively correlated with the original purpose, showcasing the ability to identify potential blood disorders in simulated patients through a systematic approach.
 b. Recognized potential systematic sources of error, including staining inconsistencies or the possibility of misinterpretation of certain cell morphologies that might have influenced results.
-c. The simulation, overall, enriched my understanding of the diagnostic process for blood disorders, emphasizing the complementary roles of automated analysis and microscopic examination. The experience underscored the significance of a multifaceted approach in achieving accurate diagnoses.
-In summary, the Hematology Simulation provided a rich learning experience by bridging theoretical knowledge with practical application. The exploration of blood components, diagnostic techniques, and the integration of technology deepened my understanding of hematology, contributing to a more comprehensive view of clinical diagnostics in the context of blood disorders.
+c. The simulation, overall, enriched my understanding of the diagnostic process for blood disorders, emphasizing the complementary roles of automated analysis and microscopic examination.
+
+The experience underscored the significance of a multifaceted approach in achieving accurate diagnoses.
+In summary, the Hematology Simulation provided a rich learning experience by bridging theoretical knowledge with practical application. 
+The exploration of blood components, diagnostic techniques, and the integration of technology deepened my understanding of hematology, 
+contributing to a more comprehensive view of clinical diagnostics in the context of blood disorders.
